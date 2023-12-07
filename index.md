@@ -4,7 +4,11 @@ This is my home page! My name is Benjamin Potestas and I am a student at [Cal St
 
 ## Computer Science Projects
 
+<<<<<<< HEAD
 My GitHub page is (http://github.com/print-Benjamin).
+=======
+My GitHub page is http://github.com/print-Benjamin
+>>>>>>> ffe630b89dae804a1857dd91b218d310feb3ade8
 
 ### CPSC 120
 
