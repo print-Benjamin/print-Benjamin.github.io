@@ -1,3 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+
 # Hello World
 
 This is my home page! My name is Benjamin Potestas and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
